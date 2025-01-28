@@ -6,15 +6,15 @@
 
 ## Team Members:
 
--   Name 1
+-   Sahil Choudhary
 -   Name 2
 -   Name 3
 
 ## Member Contributions:
 
-### Name 1:
+### Sahil Choudhary:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on About section in Styles.css.
 
 ### Name 2:
 
