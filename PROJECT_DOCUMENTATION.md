@@ -14,7 +14,7 @@ This Local Eats project involves the development of a simple, user-friendly webs
 
 ### Sahil Choudhary:
 
--   Worked on About section in Styles.css.
+-   Worked on About section, menu section, contact section and footer in Styles.css.
 
 ### Arshdeep Singh Rishi:
 
