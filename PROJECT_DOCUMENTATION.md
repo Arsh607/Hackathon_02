@@ -6,17 +6,17 @@ This Local Eats project involves the development of a simple, user-friendly webs
 
 ## Team Members:
 
--   Name 1
+-   Sahil Choudhary
 -   Arshdeep Singh Rishi
 -   Name 3
 
 ## Member Contributions:
 
-### Name 1:
+### Sahil Choudhary:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on About section in Styles.css.
 
-### Name 2:
+### Arshdeep Singh Rishi:
 
 -   Was responsible for creating the css styles, focusing on body, hero section and the navigation bar of the webpage.
 
