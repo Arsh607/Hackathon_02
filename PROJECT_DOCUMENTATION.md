@@ -8,7 +8,7 @@ This Local Eats project involves the development of a simple, user-friendly webs
 
 -   Sahil Choudhary
 -   Arshdeep Singh Rishi
--   Name 3
+-   Raahil Khan 
 
 ## Member Contributions:
 
@@ -22,4 +22,4 @@ This Local Eats project involves the development of a simple, user-friendly webs
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features]
+-  Worked on the Entire HTML file.
