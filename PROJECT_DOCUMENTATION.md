@@ -20,6 +20,6 @@ This Local Eats project involves the development of a simple, user-friendly webs
 
 -   Was responsible for creating the css styles, focusing on body, hero section and the navigation bar of the webpage.
 
-### Name 3:
+### Raahil Khan:
 
 -  Worked on the Entire HTML file.
